@@ -1,0 +1,28 @@
+name: Longen
+favicon: null
+layout_spectrum: 0.6936890545766801
+typography_spectrum: 0.22486634808592498
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2997411044780165
+  lightness: 0.1648026171606034
+  saturation: 0.3349092227872461
+  rhythmicContrast: 0.290586220799014
+purpose: []
