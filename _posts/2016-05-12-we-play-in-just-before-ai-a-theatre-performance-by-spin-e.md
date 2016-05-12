@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We play in "Just before AI", a theatre performance by Spin Echo. Music, dance, theatre. Just last weekend we had a blast performing together in the Belgian town De Pinte. Here are some pics. xLongen'
-datePublished: '2016-05-12T23:28:28.614Z'
-dateModified: '2016-05-12T23:28:14.849Z'
+datePublished: '2016-05-12T23:48:55.264Z'
+dateModified: '2016-05-12T23:48:54.808Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-we-play-in-just-before-ai-a-theatre-performance-by-spin-e.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-we-play-in-just-before-ai-a-theatre-performance-by-spin-e.md
 url: we-play-in-just-before-ai-a-theatre-performance-by-spin-e/index.html
 _type: Article
 
