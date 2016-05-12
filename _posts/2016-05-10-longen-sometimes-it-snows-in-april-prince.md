@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_PpUHqfXA8k'
+inLanguage: null
+keywords: []
+description: A tribute to Prince by Longen (featuring Rob Cornelissen) We will miss him. We also like purple.
+datePublished: '2016-05-12T23:47:43.753Z'
+dateModified: '2016-05-12T22:44:09.920Z'
 author:
   - name: Longen
     url: 'https://www.youtube.com/user/longenmusic'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: A tribute to Prince by Longen (featuring Rob Cornelissen) We will miss him. We also like purple.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_PpUHqfXA8k'
 title: Longen - Sometimes It Snows in April (Prince)
-datePublished: '2016-05-10T11:29:18.185Z'
-dateModified: '2016-05-10T11:28:05.891Z'
-starred: false
 sourcePath: _posts/2016-05-10-longen-sometimes-it-snows-in-april-prince.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
