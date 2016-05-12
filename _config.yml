@@ -1,6 +1,6 @@
 name: Longen
 favicon: null
-layout_spectrum: 0.48168
+layout_spectrum: 0.75178
 typography_spectrum: 0.2391
 title: Longen
 cta:
@@ -24,6 +24,6 @@ color:
     - '#858585'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.8125
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
