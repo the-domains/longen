@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/115606342'
+inLanguage: null
+keywords: []
+description: "In 2014 United Cowboys created 'BURN', a theater performance about mankind and its ongoing efforts in a possibly meaningless universe. Longen performed a live soundtrack during the performance."
+datePublished: '2016-05-13T11:26:02.748Z'
+dateModified: '2016-05-13T11:15:42.454Z'
 author:
   - name: United-C
     url: 'http://vimeo.com/unitedc'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "In 2014 United Cowboys created 'BURN', a theater performance about mankind and its ongoing efforts in a possibly meaningless universe. Longen performed a live soundtrack during the performance."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115606342'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/115606342'
 title: United Cowboys - BURN (music by Longen)
-datePublished: '2016-03-18T08:08:47.005Z'
-dateModified: '2016-03-18T08:07:47.659Z'
 sourcePath: _posts/2016-03-18-united-cowboys-burn-music-by-longen.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
