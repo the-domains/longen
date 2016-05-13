@@ -16,8 +16,8 @@ keywords:
   - omroep
   - robocnc
 description: 'Docwerk duikt in de grot van Longen waar de schaduwen existentiële vragen over bewustzijn en kunstmatige intelligentie bespelen. Projectinformatie Lichting: 2 / 2015 Regie: Melanie Pardoel Camera: Patrice Winfield, Melanie Pardoel Geluid: Ralph Timmermans Montage: Melanie Pardoel Productie: Melanie Pardoel Lengte: 3 min Formaat: HD Taal: Ned Omroep: Omroep Brabant'
-datePublished: '2016-05-13T11:27:17.466Z'
-dateModified: '2016-05-13T11:17:48.794Z'
+datePublished: '2016-05-13T12:08:52.274Z'
+dateModified: '2016-05-13T11:48:07.373Z'
 author:
   - name: Docwerk Tv
     url: 'https://www.youtube.com/channel/UCu1PZyt-oyKnBWrVZm70M6w'
