@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We are a group of musicians having fun in an audio cave. An EP titled "Intelligent Machine" is a recent result of our play and we decided to introduce it to the sun and the shadows someday soon. The collage is artwork for "Intelligent Machine" made by Nikki Nordmann.'
-datePublished: '2016-05-13T11:21:42.970Z'
-dateModified: '2016-05-13T11:18:40.181Z'
+datePublished: '2016-05-13T11:27:45.458Z'
+dateModified: '2016-05-13T11:21:50.469Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-new-ep-intelligent-machine-coming-soon.md
