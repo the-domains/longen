@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_NdavWCteqw'
+inLanguage: null
+keywords: []
+description: 'Music: Longen (Rebecca Sier, Ralph Timmermans, Johan Reijnders) Light: Raoul Baeten Camera: Melanie Pardoel Produced by Longen'
+datePublished: '2016-05-13T11:27:06.564Z'
+dateModified: '2016-05-13T11:15:25.945Z'
 author:
   - name: Longen
     url: 'https://www.youtube.com/user/longenmusic'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Music: Longen (Rebecca Sier, Ralph Timmermans, Johan Reijnders) Light: Raoul Baeten Camera: Melanie Pardoel Produced by Longen'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_NdavWCteqw'
 title: Longen - Sophy (Live)
-datePublished: '2016-03-17T22:53:49.215Z'
-dateModified: '2016-03-17T22:53:10.410Z'
 sourcePath: _posts/2016-03-17-longen-sophy-live.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
