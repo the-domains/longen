@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Docwerk Tv
-    url: 'https://www.youtube.com/channel/UCu1PZyt-oyKnBWrVZm70M6w'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=HEUT3-xs8jM'
+inLanguage: en
 keywords:
   - duration
   - docwerk
@@ -21,7 +16,13 @@ keywords:
   - omroep
   - robocnc
 description: 'Docwerk duikt in de grot van Longen waar de schaduwen existentiële vragen over bewustzijn en kunstmatige intelligentie bespelen. Projectinformatie Lichting: 2 / 2015 Regie: Melanie Pardoel Camera: Patrice Winfield, Melanie Pardoel Geluid: Ralph Timmermans Montage: Melanie Pardoel Productie: Melanie Pardoel Lengte: 3 min Formaat: HD Taal: Ned Omroep: Omroep Brabant'
-inLanguage: en
+datePublished: '2016-05-13T11:27:17.466Z'
+dateModified: '2016-05-13T11:17:48.794Z'
+author:
+  - name: Docwerk Tv
+    url: 'https://www.youtube.com/channel/UCu1PZyt-oyKnBWrVZm70M6w'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=HEUT3-xs8jM&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=HEUT3-xs8jM'
 title: Column Longen
-datePublished: '2016-03-18T18:41:54.335Z'
-dateModified: '2016-03-18T18:38:42.366Z'
 sourcePath: _posts/2016-03-18-column-longen.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
