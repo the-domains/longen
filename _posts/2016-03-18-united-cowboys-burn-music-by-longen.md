@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/115606342'
 inLanguage: null
 keywords: []
 description: "In 2014 United Cowboys created 'BURN', a theater performance about mankind and its ongoing efforts in a possibly meaningless universe. Longen performed a live soundtrack during the performance."
-datePublished: '2016-05-13T11:26:02.748Z'
-dateModified: '2016-05-13T11:15:42.454Z'
+datePublished: '2016-05-13T11:40:52.584Z'
+dateModified: '2016-05-13T11:26:12.105Z'
 author:
   - name: United-C
     url: 'http://vimeo.com/unitedc'
